@@ -1,7 +1,9 @@
 import streamlit as st 
 from ptmn3 import dataMhs
+
 # Membuat Judul Web app
 st.title("👩‍🎓Manajelem Data Mahasiswa👨‍🎓")
+
 # menambah data mahasiswa 
 st.subheader("➕  Tambah Data Mahasiswa")
 new_nama = st.text_input("Masukan Nama Mahasiswa")
