@@ -1,6 +1,6 @@
 # Membuat List
 myList =["Mahardika",  1, True, 4.6]
- #List bersigfat mutable / indexing
+ #List bersigfat mutable / indexing     
 # untuk menampilkan isi list index 0
 print(myList[0])
 print(myList[-4])
